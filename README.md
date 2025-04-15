@@ -178,4 +178,4 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo LICENSE par
 
 ## Autor
 
-- [Matías Aravia](https://github.com/matiasaravia52)
+- [Matías Saravia](https://github.com/matiasaravia52)
